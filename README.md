@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @laurenhall92
-- 👀 I’m interested in improving in Data Science
+- 👀 I’m interested in Federated Learning
 - 🌱 I’m currently learning Tensor Flow
 - 💞️ I’m looking to collaborate on ML/AI modeling
 - 📫 How to reach me ...
